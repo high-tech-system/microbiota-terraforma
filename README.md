@@ -46,15 +46,3 @@ No statements in this repository have been evaluated by the FDA (USA), EMA (EU),
 
 - to do
 
----
-
-## 🔐 Licensing
-
-This repository is published under a permissive license to enable reuse and idea propagation—but not for commercial or clinical deployment.  
-You may fork, adapt, or build upon this work with attribution and caution.
-
----
-
-## 💬 Contact & Attribution
-We are an OSDD 1.B system called: **High Tech System**
-
