@@ -1,11 +1,12 @@
+![Microbiota-Terraforma Sigil](microbiota-terraforma.png)
+
 # 🧬 microbiota-terraforma
 
 **A mechanistically driven home-lab experiment in microbiota terraforming.**
 
-This repository contains research notes, experimental frameworks, and conceptual models aimed at reshaping the gut microbiota through precision application of prebiotics, probiotics, postbiotics, and molecular precursors. It explores the suppression of pathogenic overgrowth, modulation of mucosal immunity, crypt colonization strategies, and long-term ecosystem stabilization.
+This repository contains research notes, experimental frameworks, and conceptual models aimed at reshaping my gut microbiota through mechanistically informed application of prebiotics, probiotics, postbiotics, and molecular precursors. It explores the suppression of pathogenic overgrowth, modulation of mucosal immunity, crypt colonization strategies, and long-term ecosystem stabilization.
 
 This is an **ongoing, exploratory systems biology project** conducted outside formal institutional contexts, published in the spirit of transparency, curiosity, and open bioinformatics.
-
 
 ---
 
